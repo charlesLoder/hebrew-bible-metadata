@@ -1,0 +1,15 @@
+{
+  "name": "hebrew-bible-metadata",
+  "version": "1.0.0",
+  "description": "A json file of chapter and verse metadata about the Tanach / Hebrew Bible.",
+  "main": "example.js",
+  "type": "module",
+  "keywords": [
+    "Hebrew",
+    "Bible",
+    "Tanach",
+    "metadata"
+  ],
+  "author": "Charles Loder",
+  "license": "MIT"
+}
